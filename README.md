@@ -14,3 +14,6 @@ If you need support contact me on Discord: **TripleShee#4359**
 3. Go to [Discord Developer Portal](https://discord.com/developers/applications) and create an application.
 4. Then go to rich presence and add your art assets.
 5. Finally, replace the assets in discord.lua with the assets you added to your developer application.
+
+## Redistribution
+**This script is not licensed of any sort but I would appreciate that this script not be copied or redistributed without my permission. Although, I do encourage that you modify it to your or your servers needs.**
