@@ -17,3 +17,7 @@ If you need support contact me on Discord: **TripleShee#4359**
 
 ## Redistribution
 **This script is not licensed of any sort but I would appreciate that this script not be copied or redistributed without my permission. Although, I do encourage that you modify it to your or your servers needs.**
+
+## Preview
+
+![Example Image](https://i.imgur.com/Xzf3OQ0.png)
